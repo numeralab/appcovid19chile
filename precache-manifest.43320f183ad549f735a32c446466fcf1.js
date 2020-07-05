@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "312bbcc2ab3a80d9b50cd2632bdf9953",
+    "revision": "591155951bc739d0753ec413db076ee4",
     "url": "/appcovid19chile/index.html"
   },
   {
-    "revision": "48a3ec71f3220c96c72c",
-    "url": "/appcovid19chile/static/css/main.b6482e1f.chunk.css"
+    "revision": "c3b7784da69b295d1b27",
+    "url": "/appcovid19chile/static/css/main.3f07ca1c.chunk.css"
   },
   {
-    "revision": "264a1a22f36c1e208dd4",
-    "url": "/appcovid19chile/static/js/2.e98e0a46.chunk.js"
+    "revision": "ae3500f046b2efd944b0",
+    "url": "/appcovid19chile/static/js/2.917dc2e8.chunk.js"
   },
   {
     "revision": "176852ae27885dfd7559e0fb4b332d24",
-    "url": "/appcovid19chile/static/js/2.e98e0a46.chunk.js.LICENSE.txt"
+    "url": "/appcovid19chile/static/js/2.917dc2e8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "48a3ec71f3220c96c72c",
-    "url": "/appcovid19chile/static/js/main.017d8216.chunk.js"
+    "revision": "c3b7784da69b295d1b27",
+    "url": "/appcovid19chile/static/js/main.0610af20.chunk.js"
   },
   {
     "revision": "a3557e517c44d843d352",
