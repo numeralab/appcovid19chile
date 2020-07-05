@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "./static/css/main.b6482e1f.chunk.css",
-    "main.js": "./static/js/main.aef324f3.chunk.js",
-    "main.js.map": "./static/js/main.aef324f3.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.32bbcb1f.js",
-    "runtime-main.js.map": "./static/js/runtime-main.32bbcb1f.js.map",
-    "static/js/2.a9573e56.chunk.js": "./static/js/2.a9573e56.chunk.js",
-    "static/js/2.a9573e56.chunk.js.map": "./static/js/2.a9573e56.chunk.js.map",
-    "index.html": "./index.html",
-    "precache-manifest.36edb79e5213e6b0e205c67b45910d6e.js": "./precache-manifest.36edb79e5213e6b0e205c67b45910d6e.js",
-    "service-worker.js": "./service-worker.js",
-    "static/css/main.b6482e1f.chunk.css.map": "./static/css/main.b6482e1f.chunk.css.map",
-    "static/js/2.a9573e56.chunk.js.LICENSE.txt": "./static/js/2.a9573e56.chunk.js.LICENSE.txt",
-    "static/media/favicon.png": "./static/media/favicon.db739906.png",
-    "static/media/perfiloptimizada.jpg": "./static/media/perfiloptimizada.cd3f9caa.jpg"
+    "main.css": "/appcovid19chile/static/css/main.b6482e1f.chunk.css",
+    "main.js": "/appcovid19chile/static/js/main.70f19b8c.chunk.js",
+    "main.js.map": "/appcovid19chile/static/js/main.70f19b8c.chunk.js.map",
+    "runtime-main.js": "/appcovid19chile/static/js/runtime-main.2023ad73.js",
+    "runtime-main.js.map": "/appcovid19chile/static/js/runtime-main.2023ad73.js.map",
+    "static/js/2.e98e0a46.chunk.js": "/appcovid19chile/static/js/2.e98e0a46.chunk.js",
+    "static/js/2.e98e0a46.chunk.js.map": "/appcovid19chile/static/js/2.e98e0a46.chunk.js.map",
+    "index.html": "/appcovid19chile/index.html",
+    "precache-manifest.e7f01c3cc12b406baccaeb193ba8c823.js": "/appcovid19chile/precache-manifest.e7f01c3cc12b406baccaeb193ba8c823.js",
+    "service-worker.js": "/appcovid19chile/service-worker.js",
+    "static/css/main.b6482e1f.chunk.css.map": "/appcovid19chile/static/css/main.b6482e1f.chunk.css.map",
+    "static/js/2.e98e0a46.chunk.js.LICENSE.txt": "/appcovid19chile/static/js/2.e98e0a46.chunk.js.LICENSE.txt",
+    "static/media/favicon.png": "/appcovid19chile/static/media/favicon.db739906.png",
+    "static/media/perfiloptimizada.jpg": "/appcovid19chile/static/media/perfiloptimizada.cd3f9caa.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.32bbcb1f.js",
-    "static/js/2.a9573e56.chunk.js",
+    "static/js/runtime-main.2023ad73.js",
+    "static/js/2.e98e0a46.chunk.js",
     "static/css/main.b6482e1f.chunk.css",
-    "static/js/main.aef324f3.chunk.js"
+    "static/js/main.70f19b8c.chunk.js"
   ]
 }
