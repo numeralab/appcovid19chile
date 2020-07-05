@@ -1,0 +1,12 @@
+.formControl {
+    width:50%;
+    color:white !important;
+    margin-bottom:30px !important;
+    text-align-last:center !important;
+    background-color: black !important;
+    border-radius:10px;
+}
+
+option {
+    color:white !important;
+}

@@ -1,0 +1,20 @@
+{
+    "#": "CONTEXT-DATABASE: covid19",
+    "Casos_nuevos_cumulativo_regional,Region=\"Arica_y_Parinacota\"": "Total=63.0 1593561600000000000",
+    "Casos_nuevos_cumulativo_regional,Region=\"Tarapaca\"": "Total=67.0 1593561600000000000",
+    "Casos_nuevos_cumulativo_regional,Region=\"Antofagasta\"": "Total=254.0 1593561600000000000",
+    "Casos_nuevos_cumulativo_regional,Region=\"Atacama\"": "Total=71.0 1593561600000000000",
+    "Casos_nuevos_cumulativo_regional,Region=\"Coquimbo\"": "Total=69.0 1593561600000000000",
+    "Casos_nuevos_cumulativo_regional,Region=\"Valparaiso\"": "Total=256.0 1593561600000000000",
+    "Casos_nuevos_cumulativo_regional,Region=\"Metropolitana\"": "Total=1316.0 1593561600000000000",
+    "Casos_nuevos_cumulativo_regional,Region=\"O'Higgins\"": "Total=164.0 1593561600000000000",
+    "Casos_nuevos_cumulativo_regional,Region=\"Maule\"": "Total=168.0 1593561600000000000",
+    "Casos_nuevos_cumulativo_regional,Region=\"Nuble\"": "Total=17.0 1593561600000000000",
+    "Casos_nuevos_cumulativo_regional,Region=\"Biobio\"": "Total=148.0 1593561600000000000",
+    "Casos_nuevos_cumulativo_regional,Region=\"Araucania\"": "Total=15.0 1593561600000000000",
+    "Casos_nuevos_cumulativo_regional,Region=\"Los_Rios\"": "Total=5.0 1593561600000000000",
+    "Casos_nuevos_cumulativo_regional,Region=\"Los_Lagos\"": "Total=28.0 1593561600000000000",
+    "Casos_nuevos_cumulativo_regional,Region=\"Aysen\"": "Total=0.0 1593561600000000000",
+    "Casos_nuevos_cumulativo_regional,Region=\"Magallanes\"": "Total=9.0 1593561600000000000",
+    "Casos_nuevos_cumulativo_regional,Region=\"Total\"": "Total=2650.0 1593561600000000000"
+}

@@ -1,0 +1,41 @@
+.container {
+    margin:50px 0;
+}
+
+.card {
+    margin:0 2% !important;
+    background:rgba(30,30,30,0.9) !important;
+    color:white !important;
+    text-align:center;
+}
+
+p {
+    color:white !important;
+}
+
+.cifra {
+    font-weight:bold !important;
+}
+
+.titulo {
+    font-size:32px !important;
+    text-transform:uppercase !important;
+}
+
+.infectados {
+    border-bottom:10px solid rgba(0,0,255,0.5);
+}
+
+.recuperados {
+    border-bottom: 10px solid rgba(0, 255, 0, 0.5);
+}
+
+.muertes {
+    border-bottom: 10px solid rgba(255, 0, 0, 0.5);
+}
+
+@media (max-width:770px) {
+    .card {
+        margin: 2% 0 !important;
+    }
+}

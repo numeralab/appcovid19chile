@@ -1,0 +1,17 @@
+.formControl {
+    width:50%;
+    color:white !important;
+    margin-bottom:30px !important;
+    text-align-last:center !important;
+    background-color: rgba(30, 30, 30, 0.9) !important;
+    border-radius:10px;
+}
+
+option {
+    color:white !important;
+    background-color:rgba(30, 30, 30, 0.9) !important;
+}
+
+.option::selection {
+    color: white !important;
+}
