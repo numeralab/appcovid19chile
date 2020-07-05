@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/numeralab.github.io/static/css/main.b6482e1f.chunk.css",
+    "main.js": "/numeralab.github.io/static/js/main.aef324f3.chunk.js",
+    "main.js.map": "/numeralab.github.io/static/js/main.aef324f3.chunk.js.map",
+    "runtime-main.js": "/numeralab.github.io/static/js/runtime-main.5c6faacc.js",
+    "runtime-main.js.map": "/numeralab.github.io/static/js/runtime-main.5c6faacc.js.map",
+    "static/js/2.1d782926.chunk.js": "/numeralab.github.io/static/js/2.1d782926.chunk.js",
+    "static/js/2.1d782926.chunk.js.map": "/numeralab.github.io/static/js/2.1d782926.chunk.js.map",
+    "index.html": "/numeralab.github.io/index.html",
+    "precache-manifest.725f0a463b6f2728dbf4df439edb8a74.js": "/numeralab.github.io/precache-manifest.725f0a463b6f2728dbf4df439edb8a74.js",
+    "service-worker.js": "/numeralab.github.io/service-worker.js",
+    "static/css/main.b6482e1f.chunk.css.map": "/numeralab.github.io/static/css/main.b6482e1f.chunk.css.map",
+    "static/js/2.1d782926.chunk.js.LICENSE.txt": "/numeralab.github.io/static/js/2.1d782926.chunk.js.LICENSE.txt",
+    "static/media/favicon.png": "/numeralab.github.io/static/media/favicon.db739906.png",
+    "static/media/perfiloptimizada.jpg": "/numeralab.github.io/static/media/perfiloptimizada.cd3f9caa.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5c6faacc.js",
+    "static/js/2.1d782926.chunk.js",
+    "static/css/main.b6482e1f.chunk.css",
+    "static/js/main.aef324f3.chunk.js"
+  ]
+}
