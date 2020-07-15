@@ -3,7 +3,7 @@ import { Bar } from 'react-chartjs-2';
 import { fetchDailyData } from '../../api';
 import styles from './Chart.module.css';
 
-const Chart = ({data : {confirmed, recovered, deaths, active} , provincia}) => {
+const Chart = ({data : {confirmed, recovered, deaths} , provincia}) => {
     const [dailyData, setDailyData] = useState({});
     useEffect(() => {
         const fetchAPI = async () => {
