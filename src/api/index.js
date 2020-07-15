@@ -33,7 +33,7 @@ export const fetchData = async (provincia) => {
             console.log("fetchdata else: ", confirmed,
                 recovered,
                 deaths,
-                lastUpdate, active);
+                lastUpdate);
             return {
                 confirmed,
                 recovered,
