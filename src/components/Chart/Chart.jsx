@@ -53,16 +53,15 @@ const barChart = (
 provincia ? (
     <Bar
         data={{
-            labels: ['Casos Totales', 'Recuperados Totales','Activos', 'Muertes'],
+            labels: ['Casos Totales', 'Recuperados Totales', 'Muertes'],
             datasets: [ {
                 label: 'Total de personas',
                 backgroundColor: ['rgba(31, 97, 179,0.5)',
                     'rgba(0, 255, 0, 0.5)',
-                    'rgba(242, 128, 6, 0.5)',
                     'rgba(255, 30, 0, 0.5)',
                     
                 ],
-            data: [confirmed.value, recovered.value, active.value, deaths.value],
+            data: [confirmed.value, recovered.value, deaths.value],
             },
             ],
         }}
