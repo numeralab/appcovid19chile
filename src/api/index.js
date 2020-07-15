@@ -13,7 +13,7 @@ export const fetchData = async (provincia) => {
                 };
             })
             return {
-                confirmed: { value: filteredData.confirmed }, recovered: { value: filteredData.recovered }, deaths: { value: filteredData.deaths}, active: { value: filteredData.active },
+                confirmed: { value: filteredData.confirmed }, recovered: { value: filteredData.recovered }, deaths: { value: filteredData.deaths},
                 lastUpdate: new Date(filteredData.lastUpdate).toISOString()
             };
         } catch (error) {
@@ -27,7 +27,6 @@ export const fetchData = async (provincia) => {
                     recovered,
                     deaths,
                     lastUpdate,
-                    active,
                 }
             } = await axios.get(changeableUrl);
 
@@ -40,7 +39,6 @@ export const fetchData = async (provincia) => {
                 recovered,
                 deaths,
                 lastUpdate,
-                active,
             };
         } catch (error) {
             return error;
