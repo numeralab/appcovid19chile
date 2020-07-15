@@ -6,7 +6,7 @@ import Zoom from 'react-reveal/Zoom';
 import numeralogo from './../../images/favicon.png';
 import styles from './Cards.module.css';
 
-const Cards = ({ data :{confirmed, recovered, deaths, lastUpdate, active}}) => {
+const Cards = ({ data :{confirmed, recovered, deaths, lastUpdate}}) => {
 
     if(!confirmed) {
         return (
@@ -18,22 +18,6 @@ const Cards = ({ data :{confirmed, recovered, deaths, lastUpdate, active}}) => {
         )
     };
 
-const activos = (
-active ? (
-                <Grid item component={Card} xs={12} md={3} className={cx(styles.card, styles.activos)}>
-                    <CardContent>
-                        <Typography className={styles.titulo} color="textSecondary"       gutterBottom>Casos Activos</Typography>
-                        <Typography variant="h5">
-                            <CountUp className={styles.cifra}  start={0} end={active.value} duration={2.5} separator=","
-                         />
-                        </Typography>
-                        <Typography color="textSecondary">{new Date(lastUpdate).toLocaleDateString()}</Typography>
-                        <Typography variant="body2">Número de Casos Activos de COVID-19</Typography>
-                    </CardContent>
-                </Grid>
-) : null
-
-);
 
 
     return(
@@ -72,7 +56,6 @@ active ? (
                     <Typography variant="body2">Número de muertes totales causadas por COVID-19</Typography>
                 </CardContent>
             </Grid>
-            {active ? activos : activos}
         </Grid>
         </div>
     )
