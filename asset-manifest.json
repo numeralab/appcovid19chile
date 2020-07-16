@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/appcovid19chile/static/css/main.ca458fcd.chunk.css",
-    "main.js": "/appcovid19chile/static/js/main.cf29cada.chunk.js",
-    "main.js.map": "/appcovid19chile/static/js/main.cf29cada.chunk.js.map",
+    "main.css": "/appcovid19chile/static/css/main.76b23e25.chunk.css",
+    "main.js": "/appcovid19chile/static/js/main.e6733950.chunk.js",
+    "main.js.map": "/appcovid19chile/static/js/main.e6733950.chunk.js.map",
     "runtime-main.js": "/appcovid19chile/static/js/runtime-main.2023ad73.js",
     "runtime-main.js.map": "/appcovid19chile/static/js/runtime-main.2023ad73.js.map",
-    "static/js/2.9be4bd0a.chunk.js": "/appcovid19chile/static/js/2.9be4bd0a.chunk.js",
-    "static/js/2.9be4bd0a.chunk.js.map": "/appcovid19chile/static/js/2.9be4bd0a.chunk.js.map",
+    "static/js/2.7af78842.chunk.js": "/appcovid19chile/static/js/2.7af78842.chunk.js",
+    "static/js/2.7af78842.chunk.js.map": "/appcovid19chile/static/js/2.7af78842.chunk.js.map",
     "index.html": "/appcovid19chile/index.html",
-    "precache-manifest.d3fce54da010aab6a2968bc91a6a5bdd.js": "/appcovid19chile/precache-manifest.d3fce54da010aab6a2968bc91a6a5bdd.js",
+    "precache-manifest.b4195e23692245bedd9058a65849a54d.js": "/appcovid19chile/precache-manifest.b4195e23692245bedd9058a65849a54d.js",
     "service-worker.js": "/appcovid19chile/service-worker.js",
-    "static/css/main.ca458fcd.chunk.css.map": "/appcovid19chile/static/css/main.ca458fcd.chunk.css.map",
-    "static/js/2.9be4bd0a.chunk.js.LICENSE.txt": "/appcovid19chile/static/js/2.9be4bd0a.chunk.js.LICENSE.txt",
-    "static/media/favicon.png": "/appcovid19chile/static/media/favicon.db739906.png"
+    "static/css/main.76b23e25.chunk.css.map": "/appcovid19chile/static/css/main.76b23e25.chunk.css.map",
+    "static/js/2.7af78842.chunk.js.LICENSE.txt": "/appcovid19chile/static/js/2.7af78842.chunk.js.LICENSE.txt",
+    "static/media/favicon.png": "/appcovid19chile/static/media/favicon.db739906.png",
+    "static/media/perfiloptimizada.jpg": "/appcovid19chile/static/media/perfiloptimizada.cd3f9caa.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.2023ad73.js",
-    "static/js/2.9be4bd0a.chunk.js",
-    "static/css/main.ca458fcd.chunk.css",
-    "static/js/main.cf29cada.chunk.js"
+    "static/js/2.7af78842.chunk.js",
+    "static/css/main.76b23e25.chunk.css",
+    "static/js/main.e6733950.chunk.js"
   ]
 }
