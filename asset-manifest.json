@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/appcovid19chile/static/css/main.76b23e25.chunk.css",
-    "main.js": "/appcovid19chile/static/js/main.525c2deb.chunk.js",
-    "main.js.map": "/appcovid19chile/static/js/main.525c2deb.chunk.js.map",
+    "main.js": "/appcovid19chile/static/js/main.b72cf23b.chunk.js",
+    "main.js.map": "/appcovid19chile/static/js/main.b72cf23b.chunk.js.map",
     "runtime-main.js": "/appcovid19chile/static/js/runtime-main.2023ad73.js",
     "runtime-main.js.map": "/appcovid19chile/static/js/runtime-main.2023ad73.js.map",
     "static/js/2.7af78842.chunk.js": "/appcovid19chile/static/js/2.7af78842.chunk.js",
     "static/js/2.7af78842.chunk.js.map": "/appcovid19chile/static/js/2.7af78842.chunk.js.map",
     "index.html": "/appcovid19chile/index.html",
-    "precache-manifest.c1ce511ae531dcb7b1a6b9e4e9e12c5b.js": "/appcovid19chile/precache-manifest.c1ce511ae531dcb7b1a6b9e4e9e12c5b.js",
+    "precache-manifest.e6bf7fd910db16e6731fbcdaf40afcc7.js": "/appcovid19chile/precache-manifest.e6bf7fd910db16e6731fbcdaf40afcc7.js",
     "service-worker.js": "/appcovid19chile/service-worker.js",
     "static/css/main.76b23e25.chunk.css.map": "/appcovid19chile/static/css/main.76b23e25.chunk.css.map",
     "static/js/2.7af78842.chunk.js.LICENSE.txt": "/appcovid19chile/static/js/2.7af78842.chunk.js.LICENSE.txt",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.2023ad73.js",
     "static/js/2.7af78842.chunk.js",
     "static/css/main.76b23e25.chunk.css",
-    "static/js/main.525c2deb.chunk.js"
+    "static/js/main.b72cf23b.chunk.js"
   ]
 }
